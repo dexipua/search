@@ -13,6 +13,7 @@ input {
 }
 .button {
     width: 300px;
+    font-size: x-large;
 }
 img {
     width: 600px;
