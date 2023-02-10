@@ -1,15 +1,18 @@
 #grid {
     display: grid;
-    grid-column: auto 500px auto;
+    grid-column: auto 600px auto;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 input {
-    margin: 5px;
+    margin: 10px;
 }
 #pole {
-    width: 310px;
+    width: 620px;
 }
 .button {
-    width: 150px;
+    width: 300px;
+}
+img {
+    width: 600px;
 }
