@@ -17,3 +17,8 @@ input {
 img {
     width: 600px;
 }
+#button {
+    width: 600px;
+    padding: 20px;
+    margin-top: 200px;
+}
