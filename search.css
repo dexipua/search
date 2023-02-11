@@ -32,3 +32,6 @@ img {
 body {
     background-color: whitesmoke;
 }
+.button:hover {
+    border: 2px solid blue;
+}
